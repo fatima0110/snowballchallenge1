@@ -1,0 +1,33 @@
+#logoen {
+  width: 100px;
+  height: 50px;
+
+  MARGIN-TOP: -4.5%;
+}
+ul {
+  list-style-type: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  padding: 14px;
+  margin-top: 18%;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #ddd;
+}
+
+#h1 {
+  text-align: center;
+}
